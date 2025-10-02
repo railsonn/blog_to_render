@@ -47,3 +47,4 @@
 /.devcontainer
 
 # Ignore Docker-related files
+/.dockerignore
