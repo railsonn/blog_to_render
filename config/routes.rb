@@ -2,7 +2,6 @@ Rails.application.routes.draw do
   resources :articles
   get "sobre/index"
   get "home/index"
-  get "gjs/index"
   get "article/autor:text"
   get "article/titulo:text"
   get "article/data_public:date"
