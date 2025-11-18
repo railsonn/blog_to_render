@@ -64,4 +64,4 @@ group :test do
 end
 
 
-gem 'dotenv', '~> 2.1', '>= 2.1.1', groups: [:development, :test]
+gem 'dotenv', '~> 3.1', groups: [:development, :test]
